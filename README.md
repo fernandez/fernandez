@@ -1,3 +1,3 @@
-### 👋 Hey! I'm Alex and I love helping people solve technical issues when using software, especially GitHub! :octocat:
+### 👋 Hey, I'm Alex! I love helping people solve technical issues when using git and GitHub :octocat:
 
 
